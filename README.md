@@ -1,3 +1,5 @@
+![ERD](ERD.png)
+
 ## PROJECT - DESIGN AND MODELLING OF A DATABASE USING PYTHON AND POSTGRESQL
 **Completed by Abasifreke Nkanang**
 
